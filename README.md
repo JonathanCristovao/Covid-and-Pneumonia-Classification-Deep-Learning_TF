@@ -5,4 +5,15 @@ Data  : [Click here to download data](https://www.kaggle.com/datasets/pranavraik
 
 
 ![alt text](image.png)
+ 
+ # Classification by NASNetMobile Neural network
+ 
+ ## Validation accuracy: 0.97%
+
+![alt text](Figure_covid.png)
+
+
+
+![alt text](Figure_pneumonia_viral.png)
+
 
